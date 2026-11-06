@@ -1,0 +1,16 @@
+CHEM 13 – Organic Chemistry (Lecture)
+Asynchronous Activity No. 3: Name It, Draw It
+AI and Naming Tool Disclosure
+
+Student: Jabez Llanera
+
+1. ChatGPT (OpenAI)
+I used ChatGPT to help interpret the instructor-provided structures and names, review IUPAC nomenclature rules, work through possible names and molecular formulas, explain parent-chain and ring selection, numbering and substituent placement, and prepare the wording and layout of a digital naming-card portfolio. Some draft names, structures, and explanations were generated with ChatGPT assistance; they are not represented as solely independently derived answers. I am responsible for checking the chemistry against the course rules, revising the cards based on my own reasoning, and correcting any errors before submission.
+
+2. The Alkane (https://thealkane.com/)
+Status: NOT YET USED FOR VERIFICATION in the draft portfolio. The Alkane's genuine structure drawings, returned names, and cropped verification screenshots have not yet been captured. I will update this statement after I personally draw and check the assigned structures on The Alkane and add the actual results. I will not label unverified images as screenshots from the website.
+
+Reference for The Alkane (once used):
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved [actual access date], from https://thealkane.com/
+
+Disclosure note: This file describes the current working draft. Before submitting, update the The Alkane section to accurately reflect the tool's actual use and ensure that all final cards represent my checked work and explain any name discrepancies.
